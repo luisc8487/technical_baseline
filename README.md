@@ -31,5 +31,5 @@ cd .\my-react-app\
 
 Run the following command to start the project:
 ```bash
-cd npm run dev
+npm run dev
 ```
