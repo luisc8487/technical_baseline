@@ -1,6 +1,6 @@
 # technical_baseline
 
-# Getting Started
+## Getting Started
 
 Welcome to Codeium's Repository! This repository contains a React-based project that demonstrates the use of Codeium's AI-powered coding tools.
 
